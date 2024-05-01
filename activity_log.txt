@@ -1,620 +1,371 @@
-2024-05-01 18:16:56: Seatbelt worn detected at frame 1
-2024-05-01 18:16:56: Seatbelt worn detected at frame 1
-2024-05-01 18:16:56: Seatbelt worn detected at frame 1
-2024-05-01 18:16:56: Seatbelt worn detected at frame 1
-2024-05-01 18:17:01: Drinking detected at frame 1 with confidence 55%
-2024-05-01 18:17:03: Seatbelt worn detected at frame 2
-2024-05-01 18:17:03: Seatbelt worn detected at frame 2
-2024-05-01 18:17:03: Seatbelt worn detected at frame 2
-2024-05-01 18:17:03: Seatbelt worn detected at frame 2
-2024-05-01 18:17:04: Drinking detected at frame 2 with confidence 58%
-2024-05-01 18:17:04: Drowsiness detected at frame 2
-2024-05-01 18:17:05: Seatbelt worn detected at frame 3
-2024-05-01 18:17:05: Seatbelt worn detected at frame 3
-2024-05-01 18:17:05: Seatbelt worn detected at frame 3
-2024-05-01 18:17:05: Seatbelt worn detected at frame 3
-2024-05-01 18:17:05: Drinking detected at frame 3 with confidence 61%
-2024-05-01 18:17:06: Drowsiness detected at frame 3
-2024-05-01 18:17:06: Seatbelt worn detected at frame 4
-2024-05-01 18:17:06: Seatbelt worn detected at frame 4
-2024-05-01 18:17:06: Seatbelt worn detected at frame 4
-2024-05-01 18:17:06: Seatbelt worn detected at frame 4
-2024-05-01 18:17:07: Drinking detected at frame 4 with confidence 58%
-2024-05-01 18:17:07: Drowsiness detected at frame 4
-2024-05-01 18:17:07: Seatbelt worn detected at frame 5
-2024-05-01 18:17:07: Seatbelt worn detected at frame 5
-2024-05-01 18:17:08: Seatbelt worn detected at frame 5
-2024-05-01 18:17:08: Seatbelt worn detected at frame 5
-2024-05-01 18:17:08: Drinking detected at frame 5 with confidence 62%
-2024-05-01 18:17:08: Drinking detected at frame 5 with confidence 54%
-2024-05-01 18:17:08: Drowsiness detected at frame 5
-2024-05-01 18:17:08: Seatbelt worn detected at frame 6
-2024-05-01 18:17:08: Seatbelt worn detected at frame 6
-2024-05-01 18:17:09: Seatbelt worn detected at frame 6
-2024-05-01 18:17:09: Seatbelt worn detected at frame 6
-2024-05-01 18:17:09: Drinking detected at frame 6 with confidence 52%
-2024-05-01 18:17:09: Drinking detected at frame 6 with confidence 51%
-2024-05-01 18:17:09: Drowsiness detected at frame 6
-2024-05-01 18:17:09: Seatbelt worn detected at frame 7
-2024-05-01 18:17:09: Seatbelt worn detected at frame 7
-2024-05-01 18:17:10: Seatbelt worn detected at frame 7
-2024-05-01 18:17:10: Seatbelt worn detected at frame 7
-2024-05-01 18:17:10: Drinking detected at frame 7 with confidence 63%
-2024-05-01 18:17:10: Drowsiness detected at frame 7
-2024-05-01 18:17:10: Seatbelt worn detected at frame 8
-2024-05-01 18:17:11: Seatbelt worn detected at frame 8
-2024-05-01 18:17:11: Seatbelt worn detected at frame 8
-2024-05-01 18:17:11: Seatbelt worn detected at frame 8
-2024-05-01 18:17:11: Drinking detected at frame 8 with confidence 63%
-2024-05-01 18:17:11: Drinking detected at frame 8 with confidence 57%
-2024-05-01 18:17:11: Drowsiness detected at frame 8
-2024-05-01 18:17:11: Seatbelt worn detected at frame 9
-2024-05-01 18:17:12: Seatbelt worn detected at frame 9
-2024-05-01 18:17:12: Seatbelt worn detected at frame 9
-2024-05-01 18:17:12: Seatbelt worn detected at frame 9
-2024-05-01 18:17:12: Drinking detected at frame 9 with confidence 71%
-2024-05-01 18:17:12: Seatbelt worn detected at frame 10
-2024-05-01 18:17:13: Seatbelt worn detected at frame 10
-2024-05-01 18:17:13: Seatbelt worn detected at frame 10
-2024-05-01 18:17:13: Seatbelt worn detected at frame 10
-2024-05-01 18:17:13: Drinking detected at frame 10 with confidence 68%
-2024-05-01 18:17:13: Drowsiness detected at frame 10
-2024-05-01 18:17:14: Seatbelt worn detected at frame 11
-2024-05-01 18:17:14: Seatbelt worn detected at frame 11
-2024-05-01 18:17:14: Seatbelt worn detected at frame 11
-2024-05-01 18:17:14: Seatbelt worn detected at frame 11
-2024-05-01 18:17:15: Drinking detected at frame 11 with confidence 66%
-2024-05-01 18:17:15: Drinking detected at frame 11 with confidence 52%
-2024-05-01 18:17:15: Seatbelt worn detected at frame 12
-2024-05-01 18:17:15: Seatbelt worn detected at frame 12
-2024-05-01 18:17:16: Seatbelt worn detected at frame 12
-2024-05-01 18:17:16: Seatbelt worn detected at frame 12
-2024-05-01 18:17:16: Drinking detected at frame 12 with confidence 63%
-2024-05-01 18:17:16: Drinking detected at frame 12 with confidence 54%
-2024-05-01 18:17:16: Drowsiness detected at frame 12
-2024-05-01 18:17:17: Seatbelt worn detected at frame 13
-2024-05-01 18:17:17: Seatbelt worn detected at frame 13
-2024-05-01 18:17:17: Seatbelt worn detected at frame 13
-2024-05-01 18:17:17: Seatbelt worn detected at frame 13
-2024-05-01 18:17:18: Drinking detected at frame 13 with confidence 69%
-2024-05-01 18:17:18: Drowsiness detected at frame 13
-2024-05-01 18:17:18: Seatbelt worn detected at frame 14
-2024-05-01 18:17:18: Seatbelt worn detected at frame 14
-2024-05-01 18:17:18: Seatbelt worn detected at frame 14
-2024-05-01 18:17:18: Seatbelt worn detected at frame 14
-2024-05-01 18:17:19: Drinking detected at frame 14 with confidence 71%
-2024-05-01 18:17:19: Drowsiness detected at frame 14
-2024-05-01 18:17:19: Seatbelt worn detected at frame 15
-2024-05-01 18:17:20: Seatbelt worn detected at frame 15
-2024-05-01 18:17:20: Seatbelt worn detected at frame 15
-2024-05-01 18:17:20: Seatbelt worn detected at frame 15
-2024-05-01 18:17:20: Smoking detected at frame 15 with confidence 59%
-2024-05-01 18:17:20: Drinking detected at frame 15 with confidence 54%
-2024-05-01 18:17:21: Seatbelt worn detected at frame 16
-2024-05-01 18:17:21: Seatbelt worn detected at frame 16
-2024-05-01 18:17:21: Seatbelt worn detected at frame 16
-2024-05-01 18:17:21: Seatbelt worn detected at frame 16
-2024-05-01 18:17:22: Drinking detected at frame 16 with confidence 62%
-2024-05-01 18:17:22: Drowsiness detected at frame 16
-2024-05-01 18:17:22: Seatbelt worn detected at frame 17
-2024-05-01 18:17:22: Seatbelt worn detected at frame 17
-2024-05-01 18:17:22: Seatbelt worn detected at frame 17
-2024-05-01 18:17:23: Seatbelt worn detected at frame 17
-2024-05-01 18:17:23: Drinking detected at frame 17 with confidence 68%
-2024-05-01 18:17:24: Seatbelt worn detected at frame 18
-2024-05-01 18:17:24: Seatbelt worn detected at frame 18
-2024-05-01 18:17:24: Seatbelt worn detected at frame 18
-2024-05-01 18:17:24: Seatbelt worn detected at frame 18
-2024-05-01 18:17:24: Drinking detected at frame 18 with confidence 77%
-2024-05-01 18:17:25: Drowsiness detected at frame 18
-2024-05-01 18:17:25: Seatbelt worn detected at frame 19
-2024-05-01 18:17:25: Seatbelt worn detected at frame 19
-2024-05-01 18:17:25: Seatbelt worn detected at frame 19
-2024-05-01 18:17:25: Seatbelt worn detected at frame 19
-2024-05-01 18:17:26: Drinking detected at frame 19 with confidence 65%
-2024-05-01 18:17:26: Drinking detected at frame 19 with confidence 63%
-2024-05-01 18:17:26: Seatbelt worn detected at frame 20
-2024-05-01 18:17:26: Seatbelt worn detected at frame 20
-2024-05-01 18:17:27: Seatbelt worn detected at frame 20
-2024-05-01 18:17:27: Seatbelt worn detected at frame 20
-2024-05-01 18:17:27: Drinking detected at frame 20 with confidence 76%
-2024-05-01 18:17:27: Drowsiness detected at frame 20
-2024-05-01 18:17:28: Seatbelt worn detected at frame 21
-2024-05-01 18:17:28: Seatbelt worn detected at frame 21
-2024-05-01 18:17:28: Seatbelt worn detected at frame 21
-2024-05-01 18:17:28: Seatbelt worn detected at frame 21
-2024-05-01 18:17:29: Drinking detected at frame 21 with confidence 64%
-2024-05-01 18:17:29: Drinking detected at frame 21 with confidence 59%
-2024-05-01 18:17:29: Drowsiness detected at frame 21
-2024-05-01 18:17:29: Seatbelt worn detected at frame 22
-2024-05-01 18:17:29: Seatbelt worn detected at frame 22
-2024-05-01 18:17:29: Seatbelt worn detected at frame 22
-2024-05-01 18:17:30: Seatbelt worn detected at frame 22
-2024-05-01 18:17:30: Drinking detected at frame 22 with confidence 64%
-2024-05-01 18:17:30: Drinking detected at frame 22 with confidence 63%
-2024-05-01 18:17:30: Drowsiness detected at frame 22
-2024-05-01 18:17:31: Seatbelt worn detected at frame 23
-2024-05-01 18:17:31: Seatbelt worn detected at frame 23
-2024-05-01 18:17:31: Seatbelt worn detected at frame 23
-2024-05-01 18:17:31: Seatbelt worn detected at frame 23
-2024-05-01 18:17:31: Drinking detected at frame 23 with confidence 68%
-2024-05-01 18:17:31: Drinking detected at frame 23 with confidence 53%
-2024-05-01 18:17:32: Drowsiness detected at frame 23
-2024-05-01 18:17:32: Seatbelt worn detected at frame 24
-2024-05-01 18:17:32: Seatbelt worn detected at frame 24
-2024-05-01 18:17:32: Seatbelt worn detected at frame 24
-2024-05-01 18:17:32: Seatbelt worn detected at frame 24
-2024-05-01 18:17:33: Drinking detected at frame 24 with confidence 62%
-2024-05-01 18:17:33: Drinking detected at frame 24 with confidence 62%
-2024-05-01 18:17:33: Seatbelt worn detected at frame 25
-2024-05-01 18:17:34: Seatbelt worn detected at frame 25
-2024-05-01 18:17:34: Seatbelt worn detected at frame 25
-2024-05-01 18:17:34: Seatbelt worn detected at frame 25
-2024-05-01 18:17:34: Drinking detected at frame 25 with confidence 57%
-2024-05-01 18:17:34: Drinking detected at frame 25 with confidence 55%
-2024-05-01 18:17:34: Drowsiness detected at frame 25
-2024-05-01 18:17:35: Seatbelt worn detected at frame 26
-2024-05-01 18:17:35: Seatbelt worn detected at frame 26
-2024-05-01 18:17:35: Seatbelt worn detected at frame 26
-2024-05-01 18:17:35: Seatbelt worn detected at frame 26
-2024-05-01 18:17:36: Drinking detected at frame 26 with confidence 61%
-2024-05-01 18:17:36: Drinking detected at frame 26 with confidence 54%
-2024-05-01 18:17:36: Seatbelt worn detected at frame 27
-2024-05-01 18:17:36: Seatbelt worn detected at frame 27
-2024-05-01 18:17:36: Seatbelt worn detected at frame 27
-2024-05-01 18:17:37: Seatbelt worn detected at frame 27
-2024-05-01 18:17:37: Drinking detected at frame 27 with confidence 61%
-2024-05-01 18:17:37: Drinking detected at frame 27 with confidence 58%
-2024-05-01 18:17:38: Seatbelt worn detected at frame 28
-2024-05-01 18:17:38: Seatbelt worn detected at frame 28
-2024-05-01 18:17:38: Seatbelt worn detected at frame 28
-2024-05-01 18:17:38: Seatbelt worn detected at frame 28
-2024-05-01 18:17:39: Drinking detected at frame 28 with confidence 60%
-2024-05-01 18:17:39: Drinking detected at frame 28 with confidence 58%
-2024-05-01 18:17:39: Drowsiness detected at frame 28
-2024-05-01 18:17:39: Seatbelt worn detected at frame 29
-2024-05-01 18:17:39: Seatbelt worn detected at frame 29
-2024-05-01 18:17:39: Seatbelt worn detected at frame 29
-2024-05-01 18:17:40: Seatbelt worn detected at frame 29
-2024-05-01 18:17:40: Drinking detected at frame 29 with confidence 76%
-2024-05-01 18:17:40: Drowsiness detected at frame 29
-2024-05-01 18:17:40: Seatbelt worn detected at frame 30
-2024-05-01 18:17:41: Seatbelt worn detected at frame 30
-2024-05-01 18:17:41: Seatbelt worn detected at frame 30
-2024-05-01 18:17:41: Seatbelt worn detected at frame 30
-2024-05-01 18:17:41: Drinking detected at frame 30 with confidence 66%
-2024-05-01 18:17:41: Drinking detected at frame 30 with confidence 60%
-2024-05-01 18:17:42: Drowsiness detected at frame 30
-2024-05-01 18:17:42: Seatbelt worn detected at frame 31
-2024-05-01 18:17:42: Seatbelt worn detected at frame 31
-2024-05-01 18:17:42: Seatbelt worn detected at frame 31
-2024-05-01 18:17:42: Seatbelt worn detected at frame 31
-2024-05-01 18:17:43: Drinking detected at frame 31 with confidence 75%
-2024-05-01 18:17:43: Drowsiness detected at frame 31
-2024-05-01 18:17:43: Seatbelt worn detected at frame 32
-2024-05-01 18:17:43: Seatbelt worn detected at frame 32
-2024-05-01 18:17:44: Seatbelt worn detected at frame 32
-2024-05-01 18:17:44: Seatbelt worn detected at frame 32
-2024-05-01 18:17:44: Drinking detected at frame 32 with confidence 66%
-2024-05-01 18:17:44: Drinking detected at frame 32 with confidence 62%
-2024-05-01 18:17:45: Seatbelt worn detected at frame 33
-2024-05-01 18:17:45: Seatbelt worn detected at frame 33
-2024-05-01 18:17:45: Seatbelt worn detected at frame 33
-2024-05-01 18:17:45: Seatbelt worn detected at frame 33
-2024-05-01 18:17:46: Drinking detected at frame 33 with confidence 64%
-2024-05-01 18:17:46: Drinking detected at frame 33 with confidence 59%
-2024-05-01 18:17:46: Drinking detected at frame 33 with confidence 52%
-2024-05-01 18:17:46: Drowsiness detected at frame 33
-2024-05-01 18:17:46: Seatbelt worn detected at frame 34
-2024-05-01 18:17:47: Seatbelt worn detected at frame 34
-2024-05-01 18:17:47: Seatbelt worn detected at frame 34
-2024-05-01 18:17:47: Seatbelt worn detected at frame 34
-2024-05-01 18:17:47: Drinking detected at frame 34 with confidence 63%
-2024-05-01 18:17:47: Drinking detected at frame 34 with confidence 56%
-2024-05-01 18:17:48: Drowsiness detected at frame 34
-2024-05-01 18:17:48: Seatbelt worn detected at frame 35
-2024-05-01 18:17:48: Seatbelt worn detected at frame 35
-2024-05-01 18:17:48: Seatbelt worn detected at frame 35
-2024-05-01 18:17:48: Seatbelt worn detected at frame 35
-2024-05-01 18:17:49: Drinking detected at frame 35 with confidence 68%
-2024-05-01 18:17:49: Drinking detected at frame 35 with confidence 56%
-2024-05-01 18:17:49: Drowsiness detected at frame 35
-2024-05-01 18:17:50: Seatbelt worn detected at frame 36
-2024-05-01 18:17:50: Seatbelt worn detected at frame 36
-2024-05-01 18:17:50: Seatbelt worn detected at frame 36
-2024-05-01 18:17:50: Seatbelt worn detected at frame 36
-2024-05-01 18:17:51: Drinking detected at frame 36 with confidence 68%
-2024-05-01 18:17:51: Drinking detected at frame 36 with confidence 59%
-2024-05-01 18:17:51: Drowsiness detected at frame 36
-2024-05-01 18:17:51: Seatbelt worn detected at frame 37
-2024-05-01 18:17:51: Seatbelt worn detected at frame 37
-2024-05-01 18:17:52: Seatbelt worn detected at frame 37
-2024-05-01 18:17:52: Seatbelt worn detected at frame 37
-2024-05-01 18:17:52: Seatbelt worn detected at frame 37
-2024-05-01 18:17:52: Seatbelt worn detected at frame 38
-2024-05-01 18:17:52: Seatbelt worn detected at frame 38
-2024-05-01 18:17:53: Seatbelt worn detected at frame 38
-2024-05-01 18:17:53: Seatbelt worn detected at frame 38
-2024-05-01 18:17:53: Seatbelt worn detected at frame 38
-2024-05-01 18:17:53: Seatbelt not worn at frame 38
-2024-05-01 18:17:53: Seatbelt worn detected at frame 39
-2024-05-01 18:17:54: Seatbelt worn detected at frame 39
-2024-05-01 18:17:54: Seatbelt worn detected at frame 39
-2024-05-01 18:17:54: Seatbelt worn detected at frame 39
-2024-05-01 18:17:54: Seatbelt not worn at frame 39
-2024-05-01 18:17:54: Smoking detected at frame 39 with confidence 63%
-2024-05-01 18:17:54: Drinking detected at frame 39 with confidence 56%
-2024-05-01 18:17:54: Seatbelt worn detected at frame 40
-2024-05-01 18:17:54: Seatbelt worn detected at frame 40
-2024-05-01 18:17:55: Seatbelt worn detected at frame 40
-2024-05-01 18:17:55: Seatbelt worn detected at frame 40
-2024-05-01 18:17:55: Seatbelt worn detected at frame 41
-2024-05-01 18:17:55: Seatbelt worn detected at frame 41
-2024-05-01 18:17:56: Seatbelt worn detected at frame 41
-2024-05-01 18:17:56: Seatbelt worn detected at frame 41
-2024-05-01 18:17:56: Drinking detected at frame 41 with confidence 52%
-2024-05-01 18:19:13: Seatbelt worn detected at frame 1
-2024-05-01 18:19:13: Seatbelt worn detected at frame 1
-2024-05-01 18:19:13: Seatbelt worn detected at frame 1
-2024-05-01 18:19:13: Seatbelt worn detected at frame 1
-2024-05-01 18:19:17: Drinking detected at frame 1 with confidence 55%
-2024-05-01 18:19:19: Seatbelt worn detected at frame 2
-2024-05-01 18:19:19: Seatbelt worn detected at frame 2
-2024-05-01 18:19:19: Seatbelt worn detected at frame 2
-2024-05-01 18:19:19: Seatbelt worn detected at frame 2
-2024-05-01 18:19:20: Drinking detected at frame 2 with confidence 58%
-2024-05-01 18:19:20: Drowsiness detected at frame 2
-2024-05-01 18:19:20: Seatbelt worn detected at frame 3
-2024-05-01 18:19:20: Seatbelt worn detected at frame 3
-2024-05-01 18:19:20: Seatbelt worn detected at frame 3
-2024-05-01 18:19:20: Seatbelt worn detected at frame 3
-2024-05-01 18:19:21: Drinking detected at frame 3 with confidence 61%
-2024-05-01 18:19:21: Drowsiness detected at frame 3
-2024-05-01 18:19:21: Seatbelt worn detected at frame 4
-2024-05-01 18:19:21: Seatbelt worn detected at frame 4
-2024-05-01 18:19:21: Seatbelt worn detected at frame 4
-2024-05-01 18:19:21: Seatbelt worn detected at frame 4
-2024-05-01 18:19:22: Drinking detected at frame 4 with confidence 58%
-2024-05-01 18:19:22: Drowsiness detected at frame 4
-2024-05-01 18:19:22: Seatbelt worn detected at frame 5
-2024-05-01 18:19:22: Seatbelt worn detected at frame 5
-2024-05-01 18:19:22: Seatbelt worn detected at frame 5
-2024-05-01 18:19:22: Seatbelt worn detected at frame 5
-2024-05-01 18:19:23: Drinking detected at frame 5 with confidence 62%
-2024-05-01 18:19:23: Drinking detected at frame 5 with confidence 54%
-2024-05-01 18:19:23: Drowsiness detected at frame 5
-2024-05-01 18:19:23: Seatbelt worn detected at frame 6
-2024-05-01 18:19:23: Seatbelt worn detected at frame 6
-2024-05-01 18:19:23: Seatbelt worn detected at frame 6
-2024-05-01 18:19:23: Seatbelt worn detected at frame 6
-2024-05-01 18:19:24: Drinking detected at frame 6 with confidence 52%
-2024-05-01 18:19:24: Drinking detected at frame 6 with confidence 51%
-2024-05-01 18:19:24: Drowsiness detected at frame 6
-2024-05-01 18:19:24: Seatbelt worn detected at frame 7
-2024-05-01 18:19:24: Seatbelt worn detected at frame 7
-2024-05-01 18:19:24: Seatbelt worn detected at frame 7
-2024-05-01 18:19:24: Seatbelt worn detected at frame 7
-2024-05-01 18:19:25: Drinking detected at frame 7 with confidence 63%
-2024-05-01 18:19:25: Drowsiness detected at frame 7
-2024-05-01 18:19:25: Seatbelt worn detected at frame 8
-2024-05-01 18:19:25: Seatbelt worn detected at frame 8
-2024-05-01 18:19:25: Seatbelt worn detected at frame 8
-2024-05-01 18:19:26: Seatbelt worn detected at frame 8
-2024-05-01 18:19:26: Drinking detected at frame 8 with confidence 63%
-2024-05-01 18:19:26: Drinking detected at frame 8 with confidence 57%
-2024-05-01 18:19:26: Drowsiness detected at frame 8
-2024-05-01 18:19:26: Seatbelt worn detected at frame 9
-2024-05-01 18:19:26: Seatbelt worn detected at frame 9
-2024-05-01 18:19:26: Seatbelt worn detected at frame 9
-2024-05-01 18:19:27: Seatbelt worn detected at frame 9
-2024-05-01 18:19:27: Drinking detected at frame 9 with confidence 71%
-2024-05-01 18:19:27: Seatbelt worn detected at frame 10
-2024-05-01 18:19:27: Seatbelt worn detected at frame 10
-2024-05-01 18:19:28: Seatbelt worn detected at frame 10
-2024-05-01 18:19:28: Seatbelt worn detected at frame 10
-2024-05-01 18:19:28: Drinking detected at frame 10 with confidence 68%
-2024-05-01 18:19:28: Drowsiness detected at frame 10
-2024-05-01 18:19:28: Seatbelt worn detected at frame 11
-2024-05-01 18:19:29: Seatbelt worn detected at frame 11
-2024-05-01 18:19:29: Seatbelt worn detected at frame 11
-2024-05-01 18:19:29: Seatbelt worn detected at frame 11
-2024-05-01 18:19:29: Drinking detected at frame 11 with confidence 66%
-2024-05-01 18:19:29: Drinking detected at frame 11 with confidence 52%
-2024-05-01 18:19:30: Seatbelt worn detected at frame 12
-2024-05-01 18:19:30: Seatbelt worn detected at frame 12
-2024-05-01 18:19:30: Seatbelt worn detected at frame 12
-2024-05-01 18:19:30: Seatbelt worn detected at frame 12
-2024-05-01 18:19:30: Drinking detected at frame 12 with confidence 63%
-2024-05-01 18:19:30: Drinking detected at frame 12 with confidence 54%
-2024-05-01 18:19:30: Drowsiness detected at frame 12
-2024-05-01 18:19:30: Seatbelt worn detected at frame 13
-2024-05-01 18:19:31: Seatbelt worn detected at frame 13
-2024-05-01 18:19:31: Seatbelt worn detected at frame 13
-2024-05-01 18:19:31: Seatbelt worn detected at frame 13
-2024-05-01 18:19:31: Drinking detected at frame 13 with confidence 69%
-2024-05-01 18:19:31: Drowsiness detected at frame 13
-2024-05-01 18:19:31: Seatbelt worn detected at frame 14
-2024-05-01 18:19:31: Seatbelt worn detected at frame 14
-2024-05-01 18:19:32: Seatbelt worn detected at frame 14
-2024-05-01 18:19:32: Seatbelt worn detected at frame 14
-2024-05-01 18:19:32: Drinking detected at frame 14 with confidence 71%
-2024-05-01 18:19:32: Drowsiness detected at frame 14
-2024-05-01 18:19:32: Seatbelt worn detected at frame 15
-2024-05-01 18:19:32: Seatbelt worn detected at frame 15
-2024-05-01 18:19:32: Seatbelt worn detected at frame 15
-2024-05-01 18:19:33: Seatbelt worn detected at frame 15
-2024-05-01 18:19:33: Smoking detected at frame 15 with confidence 59%
-2024-05-01 18:19:33: Drinking detected at frame 15 with confidence 54%
-2024-05-01 18:19:33: Seatbelt worn detected at frame 16
-2024-05-01 18:19:33: Seatbelt worn detected at frame 16
-2024-05-01 18:19:33: Seatbelt worn detected at frame 16
-2024-05-01 18:19:33: Seatbelt worn detected at frame 16
-2024-05-01 18:19:34: Drinking detected at frame 16 with confidence 62%
-2024-05-01 18:19:34: Drowsiness detected at frame 16
-2024-05-01 18:19:34: Seatbelt worn detected at frame 17
-2024-05-01 18:19:34: Seatbelt worn detected at frame 17
-2024-05-01 18:19:34: Seatbelt worn detected at frame 17
-2024-05-01 18:19:34: Seatbelt worn detected at frame 17
-2024-05-01 18:19:35: Drinking detected at frame 17 with confidence 68%
-2024-05-01 18:19:35: Seatbelt worn detected at frame 18
-2024-05-01 18:19:35: Seatbelt worn detected at frame 18
-2024-05-01 18:19:35: Seatbelt worn detected at frame 18
-2024-05-01 18:19:35: Seatbelt worn detected at frame 18
-2024-05-01 18:19:36: Drinking detected at frame 18 with confidence 77%
-2024-05-01 18:19:36: Drowsiness detected at frame 18
-2024-05-01 18:19:36: Seatbelt worn detected at frame 19
-2024-05-01 18:19:36: Seatbelt worn detected at frame 19
-2024-05-01 18:19:36: Seatbelt worn detected at frame 19
-2024-05-01 18:19:36: Seatbelt worn detected at frame 19
-2024-05-01 18:19:37: Drinking detected at frame 19 with confidence 65%
-2024-05-01 18:19:37: Drinking detected at frame 19 with confidence 63%
-2024-05-01 18:19:37: Seatbelt worn detected at frame 20
-2024-05-01 18:19:37: Seatbelt worn detected at frame 20
-2024-05-01 18:19:37: Seatbelt worn detected at frame 20
-2024-05-01 18:19:37: Seatbelt worn detected at frame 20
-2024-05-01 18:19:38: Drinking detected at frame 20 with confidence 76%
-2024-05-01 18:19:38: Drowsiness detected at frame 20
-2024-05-01 18:19:38: Seatbelt worn detected at frame 21
-2024-05-01 18:19:38: Seatbelt worn detected at frame 21
-2024-05-01 18:19:38: Seatbelt worn detected at frame 21
-2024-05-01 18:19:38: Seatbelt worn detected at frame 21
-2024-05-01 18:19:39: Drinking detected at frame 21 with confidence 64%
-2024-05-01 18:19:39: Drinking detected at frame 21 with confidence 59%
-2024-05-01 18:19:39: Drowsiness detected at frame 21
-2024-05-01 18:19:39: Seatbelt worn detected at frame 22
-2024-05-01 18:19:39: Seatbelt worn detected at frame 22
-2024-05-01 18:19:39: Seatbelt worn detected at frame 22
-2024-05-01 18:19:39: Seatbelt worn detected at frame 22
-2024-05-01 18:19:40: Drinking detected at frame 22 with confidence 64%
-2024-05-01 18:19:40: Drinking detected at frame 22 with confidence 63%
-2024-05-01 18:19:40: Drowsiness detected at frame 22
-2024-05-01 18:19:40: Seatbelt worn detected at frame 23
-2024-05-01 18:19:40: Seatbelt worn detected at frame 23
-2024-05-01 18:19:40: Seatbelt worn detected at frame 23
-2024-05-01 18:19:40: Seatbelt worn detected at frame 23
-2024-05-01 18:19:41: Drinking detected at frame 23 with confidence 68%
-2024-05-01 18:19:41: Drinking detected at frame 23 with confidence 53%
-2024-05-01 18:19:41: Drowsiness detected at frame 23
-2024-05-01 18:19:41: Seatbelt worn detected at frame 24
-2024-05-01 18:19:41: Seatbelt worn detected at frame 24
-2024-05-01 18:19:41: Seatbelt worn detected at frame 24
-2024-05-01 18:19:41: Seatbelt worn detected at frame 24
-2024-05-01 18:19:42: Drinking detected at frame 24 with confidence 62%
-2024-05-01 18:19:42: Drinking detected at frame 24 with confidence 62%
-2024-05-01 18:19:42: Seatbelt worn detected at frame 25
-2024-05-01 18:19:42: Seatbelt worn detected at frame 25
-2024-05-01 18:19:42: Seatbelt worn detected at frame 25
-2024-05-01 18:19:43: Seatbelt worn detected at frame 25
-2024-05-01 18:19:43: Drinking detected at frame 25 with confidence 57%
-2024-05-01 18:19:43: Drinking detected at frame 25 with confidence 55%
-2024-05-01 18:19:43: Drowsiness detected at frame 25
-2024-05-01 18:19:43: Seatbelt worn detected at frame 26
-2024-05-01 18:19:43: Seatbelt worn detected at frame 26
-2024-05-01 18:19:43: Seatbelt worn detected at frame 26
-2024-05-01 18:19:44: Seatbelt worn detected at frame 26
-2024-05-01 18:19:44: Drinking detected at frame 26 with confidence 61%
-2024-05-01 18:19:44: Drinking detected at frame 26 with confidence 54%
-2024-05-01 18:19:44: Seatbelt worn detected at frame 27
-2024-05-01 18:19:44: Seatbelt worn detected at frame 27
-2024-05-01 18:19:44: Seatbelt worn detected at frame 27
-2024-05-01 18:19:45: Seatbelt worn detected at frame 27
-2024-05-01 18:19:45: Drinking detected at frame 27 with confidence 61%
-2024-05-01 18:19:45: Drinking detected at frame 27 with confidence 58%
-2024-05-01 18:19:45: Seatbelt worn detected at frame 28
-2024-05-01 18:19:45: Seatbelt worn detected at frame 28
-2024-05-01 18:19:46: Seatbelt worn detected at frame 28
-2024-05-01 18:19:46: Seatbelt worn detected at frame 28
-2024-05-01 18:19:46: Drinking detected at frame 28 with confidence 60%
-2024-05-01 18:19:46: Drinking detected at frame 28 with confidence 58%
-2024-05-01 18:19:46: Drowsiness detected at frame 28
-2024-05-01 18:19:46: Seatbelt worn detected at frame 29
-2024-05-01 18:19:46: Seatbelt worn detected at frame 29
-2024-05-01 18:19:47: Seatbelt worn detected at frame 29
-2024-05-01 18:19:47: Seatbelt worn detected at frame 29
-2024-05-01 18:19:47: Drinking detected at frame 29 with confidence 76%
-2024-05-01 18:19:47: Drowsiness detected at frame 29
-2024-05-01 18:19:47: Seatbelt worn detected at frame 30
-2024-05-01 18:19:48: Seatbelt worn detected at frame 30
-2024-05-01 18:19:48: Seatbelt worn detected at frame 30
-2024-05-01 18:19:48: Seatbelt worn detected at frame 30
-2024-05-01 18:19:48: Drinking detected at frame 30 with confidence 66%
-2024-05-01 18:19:48: Drinking detected at frame 30 with confidence 60%
-2024-05-01 18:19:48: Drowsiness detected at frame 30
-2024-05-01 18:19:49: Seatbelt worn detected at frame 31
-2024-05-01 18:19:49: Seatbelt worn detected at frame 31
-2024-05-01 18:19:49: Seatbelt worn detected at frame 31
-2024-05-01 18:19:49: Seatbelt worn detected at frame 31
-2024-05-01 18:19:49: Drinking detected at frame 31 with confidence 75%
-2024-05-01 18:19:49: Drowsiness detected at frame 31
-2024-05-01 18:19:50: Seatbelt worn detected at frame 32
-2024-05-01 18:19:50: Seatbelt worn detected at frame 32
-2024-05-01 18:19:50: Seatbelt worn detected at frame 32
-2024-05-01 18:19:50: Seatbelt worn detected at frame 32
-2024-05-01 18:19:50: Drinking detected at frame 32 with confidence 66%
-2024-05-01 18:19:50: Drinking detected at frame 32 with confidence 62%
-2024-05-01 18:19:51: Seatbelt worn detected at frame 33
-2024-05-01 18:19:51: Seatbelt worn detected at frame 33
-2024-05-01 18:19:51: Seatbelt worn detected at frame 33
-2024-05-01 18:19:51: Seatbelt worn detected at frame 33
-2024-05-01 18:19:51: Drinking detected at frame 33 with confidence 64%
-2024-05-01 18:19:51: Drinking detected at frame 33 with confidence 59%
-2024-05-01 18:19:51: Drinking detected at frame 33 with confidence 52%
-2024-05-01 18:19:51: Drowsiness detected at frame 33
-2024-05-01 18:19:52: Seatbelt worn detected at frame 34
-2024-05-01 18:19:52: Seatbelt worn detected at frame 34
-2024-05-01 18:19:52: Seatbelt worn detected at frame 34
-2024-05-01 18:19:52: Seatbelt worn detected at frame 34
-2024-05-01 18:19:52: Drinking detected at frame 34 with confidence 63%
-2024-05-01 18:19:52: Drinking detected at frame 34 with confidence 56%
-2024-05-01 18:19:52: Drowsiness detected at frame 34
-2024-05-01 18:19:53: Seatbelt worn detected at frame 35
-2024-05-01 18:19:53: Seatbelt worn detected at frame 35
-2024-05-01 18:19:53: Seatbelt worn detected at frame 35
-2024-05-01 18:19:53: Seatbelt worn detected at frame 35
-2024-05-01 18:19:53: Drinking detected at frame 35 with confidence 68%
-2024-05-01 18:19:53: Drinking detected at frame 35 with confidence 56%
-2024-05-01 18:19:53: Drowsiness detected at frame 35
-2024-05-01 18:19:54: Seatbelt worn detected at frame 36
-2024-05-01 18:19:54: Seatbelt worn detected at frame 36
-2024-05-01 18:19:54: Seatbelt worn detected at frame 36
-2024-05-01 18:19:54: Seatbelt worn detected at frame 36
-2024-05-01 18:19:55: Drinking detected at frame 36 with confidence 68%
-2024-05-01 18:19:55: Drinking detected at frame 36 with confidence 59%
-2024-05-01 18:19:55: Drowsiness detected at frame 36
-2024-05-01 18:19:55: Seatbelt worn detected at frame 37
-2024-05-01 18:19:55: Seatbelt worn detected at frame 37
-2024-05-01 18:19:55: Seatbelt worn detected at frame 37
-2024-05-01 18:19:55: Seatbelt worn detected at frame 37
-2024-05-01 18:19:55: Seatbelt worn detected at frame 37
-2024-05-01 18:22:05: Seatbelt worn detected at frame 1
-2024-05-01 18:22:05: Seatbelt worn detected at frame 1
-2024-05-01 18:22:06: Seatbelt worn detected at frame 1
-2024-05-01 18:22:06: Seatbelt worn detected at frame 1
-2024-05-01 18:22:49: Seatbelt worn detected at frame 1
-2024-05-01 18:22:49: Seatbelt worn detected at frame 1
-2024-05-01 18:22:49: Seatbelt worn detected at frame 1
-2024-05-01 18:22:49: Seatbelt worn detected at frame 1
-2024-05-01 18:22:53: Drinking detected at frame 1 with confidence 55%
-2024-05-01 18:22:56: Seatbelt worn detected at frame 2
-2024-05-01 18:22:56: Seatbelt worn detected at frame 2
-2024-05-01 18:22:56: Seatbelt worn detected at frame 2
-2024-05-01 18:22:56: Seatbelt worn detected at frame 2
-2024-05-01 18:22:56: Drinking detected at frame 2 with confidence 58%
-2024-05-01 18:22:56: Drowsiness detected at frame 2
-2024-05-01 18:22:57: Seatbelt worn detected at frame 3
-2024-05-01 18:22:57: Seatbelt worn detected at frame 3
-2024-05-01 18:22:57: Seatbelt worn detected at frame 3
-2024-05-01 18:22:57: Seatbelt worn detected at frame 3
-2024-05-01 18:22:57: Drinking detected at frame 3 with confidence 61%
-2024-05-01 18:22:57: Drowsiness detected at frame 3
-2024-05-01 18:22:58: Seatbelt worn detected at frame 4
-2024-05-01 18:22:58: Seatbelt worn detected at frame 4
-2024-05-01 18:22:58: Seatbelt worn detected at frame 4
-2024-05-01 18:22:58: Seatbelt worn detected at frame 4
-2024-05-01 18:22:58: Drinking detected at frame 4 with confidence 58%
-2024-05-01 18:22:58: Drowsiness detected at frame 4
-2024-05-01 18:22:59: Seatbelt worn detected at frame 5
-2024-05-01 18:22:59: Seatbelt worn detected at frame 5
-2024-05-01 18:22:59: Seatbelt worn detected at frame 5
-2024-05-01 18:22:59: Seatbelt worn detected at frame 5
-2024-05-01 18:22:59: Drinking detected at frame 5 with confidence 62%
-2024-05-01 18:22:59: Drinking detected at frame 5 with confidence 54%
-2024-05-01 18:22:59: Drowsiness detected at frame 5
-2024-05-01 18:23:00: Seatbelt worn detected at frame 6
-2024-05-01 18:23:00: Seatbelt worn detected at frame 6
-2024-05-01 18:23:00: Seatbelt worn detected at frame 6
-2024-05-01 18:23:00: Seatbelt worn detected at frame 6
-2024-05-01 18:23:00: Drinking detected at frame 6 with confidence 52%
-2024-05-01 18:23:00: Drinking detected at frame 6 with confidence 51%
-2024-05-01 18:23:00: Drowsiness detected at frame 6
-2024-05-01 18:23:01: Seatbelt worn detected at frame 7
-2024-05-01 18:23:01: Seatbelt worn detected at frame 7
-2024-05-01 18:23:01: Seatbelt worn detected at frame 7
-2024-05-01 18:23:01: Seatbelt worn detected at frame 7
-2024-05-01 18:23:01: Drinking detected at frame 7 with confidence 63%
-2024-05-01 18:23:01: Drowsiness detected at frame 7
-2024-05-01 18:23:02: Seatbelt worn detected at frame 8
-2024-05-01 18:23:02: Seatbelt worn detected at frame 8
-2024-05-01 18:23:02: Seatbelt worn detected at frame 8
-2024-05-01 18:23:02: Seatbelt worn detected at frame 8
-2024-05-01 18:23:02: Drinking detected at frame 8 with confidence 63%
-2024-05-01 18:23:02: Drinking detected at frame 8 with confidence 57%
-2024-05-01 18:23:02: Drowsiness detected at frame 8
-2024-05-01 18:23:03: Seatbelt worn detected at frame 9
-2024-05-01 18:23:03: Seatbelt worn detected at frame 9
-2024-05-01 18:23:03: Seatbelt worn detected at frame 9
-2024-05-01 18:23:03: Seatbelt worn detected at frame 9
-2024-05-01 18:23:03: Drinking detected at frame 9 with confidence 71%
-2024-05-01 18:23:04: Seatbelt worn detected at frame 10
-2024-05-01 18:23:04: Seatbelt worn detected at frame 10
-2024-05-01 18:23:04: Seatbelt worn detected at frame 10
-2024-05-01 18:23:04: Seatbelt worn detected at frame 10
-2024-05-01 18:23:04: Drinking detected at frame 10 with confidence 68%
-2024-05-01 18:23:04: Drowsiness detected at frame 10
-2024-05-01 18:23:05: Seatbelt worn detected at frame 11
-2024-05-01 18:23:05: Seatbelt worn detected at frame 11
-2024-05-01 18:23:05: Seatbelt worn detected at frame 11
-2024-05-01 18:23:05: Seatbelt worn detected at frame 11
-2024-05-01 18:23:05: Drinking detected at frame 11 with confidence 66%
-2024-05-01 18:23:05: Drinking detected at frame 11 with confidence 52%
-2024-05-01 18:23:06: Seatbelt worn detected at frame 12
-2024-05-01 18:23:06: Seatbelt worn detected at frame 12
-2024-05-01 18:23:06: Seatbelt worn detected at frame 12
-2024-05-01 18:23:06: Seatbelt worn detected at frame 12
-2024-05-01 18:23:06: Drinking detected at frame 12 with confidence 63%
-2024-05-01 18:23:06: Drinking detected at frame 12 with confidence 54%
-2024-05-01 18:23:06: Drowsiness detected at frame 12
-2024-05-01 18:23:07: Seatbelt worn detected at frame 13
-2024-05-01 18:23:07: Seatbelt worn detected at frame 13
-2024-05-01 18:23:07: Seatbelt worn detected at frame 13
-2024-05-01 18:23:07: Seatbelt worn detected at frame 13
-2024-05-01 18:23:07: Drinking detected at frame 13 with confidence 69%
-2024-05-01 18:23:07: Drowsiness detected at frame 13
-2024-05-01 18:23:07: Seatbelt worn detected at frame 14
-2024-05-01 18:23:08: Seatbelt worn detected at frame 14
-2024-05-01 18:23:08: Seatbelt worn detected at frame 14
-2024-05-01 18:23:08: Seatbelt worn detected at frame 14
-2024-05-01 18:23:08: Drinking detected at frame 14 with confidence 71%
-2024-05-01 18:23:08: Drowsiness detected at frame 14
-2024-05-01 18:23:08: Seatbelt worn detected at frame 15
-2024-05-01 18:23:09: Seatbelt worn detected at frame 15
-2024-05-01 18:23:09: Seatbelt worn detected at frame 15
-2024-05-01 18:23:09: Seatbelt worn detected at frame 15
-2024-05-01 18:23:09: Smoking detected at frame 15 with confidence 59%
-2024-05-01 18:23:09: Drinking detected at frame 15 with confidence 54%
-2024-05-01 18:23:09: Seatbelt worn detected at frame 16
-2024-05-01 18:23:09: Seatbelt worn detected at frame 16
-2024-05-01 18:23:10: Seatbelt worn detected at frame 16
-2024-05-01 18:23:10: Seatbelt worn detected at frame 16
-2024-05-01 18:23:10: Drinking detected at frame 16 with confidence 62%
-2024-05-01 18:23:10: Drowsiness detected at frame 16
-2024-05-01 18:23:10: Seatbelt worn detected at frame 17
-2024-05-01 18:23:10: Seatbelt worn detected at frame 17
-2024-05-01 18:23:11: Seatbelt worn detected at frame 17
-2024-05-01 18:23:11: Seatbelt worn detected at frame 17
-2024-05-01 18:23:11: Drinking detected at frame 17 with confidence 68%
-2024-05-01 18:23:11: Seatbelt worn detected at frame 18
-2024-05-01 18:23:11: Seatbelt worn detected at frame 18
-2024-05-01 18:23:12: Seatbelt worn detected at frame 18
-2024-05-01 18:23:12: Seatbelt worn detected at frame 18
-2024-05-01 18:23:12: Drinking detected at frame 18 with confidence 77%
-2024-05-01 18:23:12: Drowsiness detected at frame 18
-2024-05-01 18:23:12: Seatbelt worn detected at frame 19
-2024-05-01 18:23:12: Seatbelt worn detected at frame 19
-2024-05-01 18:23:13: Seatbelt worn detected at frame 19
-2024-05-01 18:23:13: Seatbelt worn detected at frame 19
-2024-05-01 18:23:13: Drinking detected at frame 19 with confidence 65%
-2024-05-01 18:23:13: Drinking detected at frame 19 with confidence 63%
-2024-05-01 18:23:13: Seatbelt worn detected at frame 20
-2024-05-01 18:23:13: Seatbelt worn detected at frame 20
-2024-05-01 18:23:14: Seatbelt worn detected at frame 20
-2024-05-01 18:23:14: Seatbelt worn detected at frame 20
-2024-05-01 18:23:14: Drinking detected at frame 20 with confidence 76%
-2024-05-01 18:23:14: Drowsiness detected at frame 20
-2024-05-01 18:23:14: Seatbelt worn detected at frame 21
-2024-05-01 18:23:15: Seatbelt worn detected at frame 21
-2024-05-01 18:23:15: Seatbelt worn detected at frame 21
-2024-05-01 18:23:15: Seatbelt worn detected at frame 21
-2024-05-01 18:23:15: Drinking detected at frame 21 with confidence 64%
-2024-05-01 18:23:15: Drinking detected at frame 21 with confidence 59%
-2024-05-01 18:23:15: Drowsiness detected at frame 21
+2024-05-01 22:52:40: Seatbelt worn detected at frame 1
+2024-05-01 22:52:40: Seatbelt worn detected at frame 1
+2024-05-01 22:52:40: Seatbelt worn detected at frame 1
+2024-05-01 22:52:40: Seatbelt worn detected at frame 1
+2024-05-01 22:52:44: Seatbelt worn detected at frame 2
+2024-05-01 22:52:45: Seatbelt worn detected at frame 2
+2024-05-01 22:52:45: Seatbelt worn detected at frame 2
+2024-05-01 22:52:45: Seatbelt worn detected at frame 2
+2024-05-01 22:52:45: Seatbelt worn detected at frame 3
+2024-05-01 22:52:45: Seatbelt worn detected at frame 3
+2024-05-01 22:52:45: Seatbelt not worn at frame 3
+2024-05-01 22:52:45: Seatbelt worn detected at frame 3
+2024-05-01 22:52:45: Seatbelt worn detected at frame 4
+2024-05-01 22:52:46: Seatbelt worn detected at frame 4
+2024-05-01 22:52:46: Seatbelt worn detected at frame 4
+2024-05-01 22:52:46: Seatbelt not worn at frame 4
+2024-05-01 22:52:46: Seatbelt worn detected at frame 4
+2024-05-01 22:52:46: Seatbelt worn detected at frame 5
+2024-05-01 22:52:46: Seatbelt worn detected at frame 5
+2024-05-01 22:52:46: Seatbelt not worn at frame 5
+2024-05-01 22:52:46: Seatbelt worn detected at frame 5
+2024-05-01 22:52:46: Seatbelt worn detected at frame 6
+2024-05-01 22:52:46: Seatbelt worn detected at frame 6
+2024-05-01 22:52:47: Seatbelt not worn at frame 6
+2024-05-01 22:52:47: Seatbelt worn detected at frame 6
+2024-05-01 22:52:47: Seatbelt worn detected at frame 7
+2024-05-01 22:52:47: Seatbelt worn detected at frame 7
+2024-05-01 22:52:47: Seatbelt not worn at frame 7
+2024-05-01 22:52:47: Seatbelt worn detected at frame 7
+2024-05-01 22:52:47: Seatbelt worn detected at frame 7
+2024-05-01 22:52:47: Seatbelt worn detected at frame 8
+2024-05-01 22:52:47: Seatbelt worn detected at frame 8
+2024-05-01 22:52:48: Seatbelt not worn at frame 8
+2024-05-01 22:52:48: Seatbelt worn detected at frame 8
+2024-05-01 22:52:48: Seatbelt worn detected at frame 8
+2024-05-01 22:52:48: Seatbelt worn detected at frame 9
+2024-05-01 22:52:48: Seatbelt worn detected at frame 9
+2024-05-01 22:52:48: Seatbelt not worn at frame 9
+2024-05-01 22:52:48: Seatbelt worn detected at frame 9
+2024-05-01 22:52:48: Seatbelt worn detected at frame 9
+2024-05-01 22:52:48: Seatbelt worn detected at frame 10
+2024-05-01 22:52:49: Seatbelt worn detected at frame 10
+2024-05-01 22:52:49: Seatbelt not worn at frame 10
+2024-05-01 22:52:49: Seatbelt worn detected at frame 10
+2024-05-01 22:52:49: Seatbelt worn detected at frame 10
+2024-05-01 22:52:49: Seatbelt worn detected at frame 11
+2024-05-01 22:52:49: Seatbelt worn detected at frame 11
+2024-05-01 22:52:49: Seatbelt not worn at frame 11
+2024-05-01 22:52:49: Seatbelt worn detected at frame 11
+2024-05-01 22:52:49: Seatbelt worn detected at frame 11
+2024-05-01 22:52:50: Seatbelt worn detected at frame 12
+2024-05-01 22:52:50: Seatbelt worn detected at frame 12
+2024-05-01 22:52:50: Seatbelt not worn at frame 12
+2024-05-01 22:52:50: Seatbelt worn detected at frame 12
+2024-05-01 22:52:50: Seatbelt worn detected at frame 13
+2024-05-01 22:52:50: Seatbelt worn detected at frame 13
+2024-05-01 22:52:50: Seatbelt not worn at frame 13
+2024-05-01 22:52:50: Seatbelt worn detected at frame 13
+2024-05-01 22:52:51: Seatbelt worn detected at frame 14
+2024-05-01 22:52:51: Seatbelt worn detected at frame 14
+2024-05-01 22:52:51: Seatbelt not worn at frame 14
+2024-05-01 22:52:51: Seatbelt worn detected at frame 14
+2024-05-01 22:52:51: Seatbelt worn detected at frame 15
+2024-05-01 22:52:51: Seatbelt worn detected at frame 15
+2024-05-01 22:52:51: Seatbelt not worn at frame 15
+2024-05-01 22:52:51: Seatbelt worn detected at frame 15
+2024-05-01 22:52:51: Seatbelt worn detected at frame 16
+2024-05-01 22:52:51: Seatbelt worn detected at frame 16
+2024-05-01 22:52:52: Seatbelt not worn at frame 16
+2024-05-01 22:52:52: Seatbelt not worn at frame 16
+2024-05-01 22:52:52: Seatbelt worn detected at frame 17
+2024-05-01 22:52:52: Seatbelt worn detected at frame 17
+2024-05-01 22:52:52: Seatbelt not worn at frame 17
+2024-05-01 22:52:52: Seatbelt worn detected at frame 17
+2024-05-01 22:52:52: Seatbelt worn detected at frame 18
+2024-05-01 22:52:53: Seatbelt worn detected at frame 18
+2024-05-01 22:52:53: Seatbelt not worn at frame 18
+2024-05-01 22:52:53: Seatbelt not worn at frame 18
+2024-05-01 22:52:53: Seatbelt worn detected at frame 19
+2024-05-01 22:52:53: Seatbelt worn detected at frame 19
+2024-05-01 22:52:53: Seatbelt not worn at frame 19
+2024-05-01 22:52:53: Seatbelt worn detected at frame 19
+2024-05-01 22:52:53: Seatbelt worn detected at frame 20
+2024-05-01 22:52:53: Seatbelt worn detected at frame 20
+2024-05-01 22:52:54: Seatbelt not worn at frame 20
+2024-05-01 22:52:54: Seatbelt worn detected at frame 20
+2024-05-01 22:52:54: Seatbelt worn detected at frame 20
+2024-05-01 22:52:54: Seatbelt worn detected at frame 21
+2024-05-01 22:52:54: Seatbelt worn detected at frame 21
+2024-05-01 22:52:54: Seatbelt not worn at frame 21
+2024-05-01 22:52:54: Seatbelt not worn at frame 21
+2024-05-01 22:52:54: Seatbelt worn detected at frame 21
+2024-05-01 22:52:54: Seatbelt worn detected at frame 22
+2024-05-01 22:52:55: Seatbelt worn detected at frame 22
+2024-05-01 22:52:55: Seatbelt not worn at frame 22
+2024-05-01 22:52:55: Seatbelt not worn at frame 22
+2024-05-01 22:52:55: Seatbelt worn detected at frame 22
+2024-05-01 22:52:55: Seatbelt worn detected at frame 23
+2024-05-01 22:52:55: Seatbelt worn detected at frame 23
+2024-05-01 22:52:55: Seatbelt not worn at frame 23
+2024-05-01 22:52:55: Seatbelt not worn at frame 23
+2024-05-01 22:52:55: Seatbelt worn detected at frame 24
+2024-05-01 22:52:56: Seatbelt worn detected at frame 24
+2024-05-01 22:52:56: Seatbelt not worn at frame 24
+2024-05-01 22:52:56: Seatbelt not worn at frame 24
+2024-05-01 22:52:56: Seatbelt worn detected at frame 24
+2024-05-01 22:52:56: Seatbelt worn detected at frame 25
+2024-05-01 22:52:56: Seatbelt worn detected at frame 25
+2024-05-01 22:52:56: Seatbelt not worn at frame 25
+2024-05-01 22:52:56: Seatbelt not worn at frame 25
+2024-05-01 22:52:56: Seatbelt worn detected at frame 26
+2024-05-01 22:52:56: Seatbelt worn detected at frame 26
+2024-05-01 22:52:57: Seatbelt not worn at frame 26
+2024-05-01 22:52:57: Seatbelt not worn at frame 26
+2024-05-01 22:52:57: Seatbelt worn detected at frame 26
+2024-05-01 22:52:57: Seatbelt worn detected at frame 27
+2024-05-01 22:52:57: Seatbelt worn detected at frame 27
+2024-05-01 22:52:57: Seatbelt not worn at frame 27
+2024-05-01 22:52:57: Seatbelt worn detected at frame 27
+2024-05-01 22:52:57: Seatbelt worn detected at frame 27
+2024-05-01 22:52:58: Seatbelt worn detected at frame 28
+2024-05-01 22:52:58: Seatbelt worn detected at frame 28
+2024-05-01 22:52:58: Seatbelt not worn at frame 28
+2024-05-01 22:52:58: Seatbelt not worn at frame 28
+2024-05-01 22:52:58: Seatbelt worn detected at frame 29
+2024-05-01 22:52:58: Seatbelt worn detected at frame 29
+2024-05-01 22:52:58: Seatbelt not worn at frame 29
+2024-05-01 22:52:58: Seatbelt not worn at frame 29
+2024-05-01 22:52:59: Seatbelt worn detected at frame 30
+2024-05-01 22:52:59: Seatbelt worn detected at frame 30
+2024-05-01 22:52:59: Seatbelt not worn at frame 30
+2024-05-01 22:52:59: Seatbelt not worn at frame 30
+2024-05-01 22:52:59: Seatbelt worn detected at frame 31
+2024-05-01 22:52:59: Seatbelt worn detected at frame 31
+2024-05-01 22:52:59: Seatbelt not worn at frame 31
+2024-05-01 22:52:59: Seatbelt not worn at frame 31
+2024-05-01 22:53:00: Seatbelt worn detected at frame 32
+2024-05-01 22:53:00: Seatbelt worn detected at frame 32
+2024-05-01 22:53:00: Seatbelt not worn at frame 32
+2024-05-01 22:53:00: Seatbelt worn detected at frame 32
+2024-05-01 22:53:00: Seatbelt worn detected at frame 33
+2024-05-01 22:53:00: Seatbelt worn detected at frame 33
+2024-05-01 22:53:00: Seatbelt not worn at frame 33
+2024-05-01 22:53:00: Seatbelt worn detected at frame 33
+2024-05-01 22:53:00: Seatbelt worn detected at frame 33
+2024-05-01 22:53:01: Seatbelt worn detected at frame 34
+2024-05-01 22:53:01: Seatbelt worn detected at frame 34
+2024-05-01 22:53:01: Seatbelt not worn at frame 34
+2024-05-01 22:53:01: Seatbelt not worn at frame 34
+2024-05-01 22:53:01: Seatbelt worn detected at frame 34
+2024-05-01 22:53:01: Seatbelt worn detected at frame 35
+2024-05-01 22:53:01: Seatbelt worn detected at frame 35
+2024-05-01 22:53:01: Seatbelt not worn at frame 35
+2024-05-01 22:53:01: Seatbelt worn detected at frame 35
+2024-05-01 22:53:01: Seatbelt worn detected at frame 35
+2024-05-01 22:53:02: Seatbelt worn detected at frame 36
+2024-05-01 22:53:02: Seatbelt worn detected at frame 36
+2024-05-01 22:53:02: Seatbelt not worn at frame 36
+2024-05-01 22:53:02: Seatbelt worn detected at frame 36
+2024-05-01 22:53:02: Seatbelt worn detected at frame 36
+2024-05-01 22:53:02: Seatbelt worn detected at frame 37
+2024-05-01 22:53:02: Seatbelt worn detected at frame 37
+2024-05-01 22:53:02: Seatbelt not worn at frame 37
+2024-05-01 22:53:02: Seatbelt worn detected at frame 37
+2024-05-01 22:53:03: Seatbelt worn detected at frame 38
+2024-05-01 22:53:03: Seatbelt worn detected at frame 38
+2024-05-01 22:53:03: Seatbelt not worn at frame 38
+2024-05-01 22:53:03: Seatbelt worn detected at frame 38
+2024-05-01 22:53:03: Seatbelt not worn at frame 38
+2024-05-01 22:53:04: Seatbelt worn detected at frame 39
+2024-05-01 22:53:04: Seatbelt worn detected at frame 39
+2024-05-01 22:53:04: Seatbelt not worn at frame 39
+2024-05-01 22:53:04: Seatbelt not worn at frame 39
+2024-05-01 22:53:05: Seatbelt worn detected at frame 39
+2024-05-01 22:53:06: Seatbelt worn detected at frame 40
+2024-05-01 22:53:06: Seatbelt worn detected at frame 40
+2024-05-01 22:53:06: Seatbelt not worn at frame 40
+2024-05-01 22:53:06: Seatbelt worn detected at frame 40
+2024-05-01 22:53:06: Seatbelt worn detected at frame 40
+2024-05-01 22:53:06: Seatbelt worn detected at frame 41
+2024-05-01 22:53:07: Seatbelt worn detected at frame 41
+2024-05-01 22:53:07: Seatbelt not worn at frame 41
+2024-05-01 22:53:07: Seatbelt worn detected at frame 41
+2024-05-01 22:53:07: Seatbelt worn detected at frame 41
+2024-05-01 22:53:07: Seatbelt worn detected at frame 42
+2024-05-01 22:53:07: Seatbelt worn detected at frame 42
+2024-05-01 22:53:07: Seatbelt not worn at frame 42
+2024-05-01 22:53:07: Seatbelt worn detected at frame 42
+2024-05-01 22:53:07: Seatbelt worn detected at frame 43
+2024-05-01 22:53:08: Seatbelt worn detected at frame 43
+2024-05-01 22:53:08: Seatbelt not worn at frame 43
+2024-05-01 22:53:08: Seatbelt worn detected at frame 43
+2024-05-01 22:53:08: Seatbelt worn detected at frame 44
+2024-05-01 22:53:08: Seatbelt worn detected at frame 44
+2024-05-01 22:53:08: Seatbelt not worn at frame 44
+2024-05-01 22:53:08: Seatbelt worn detected at frame 44
+2024-05-01 22:53:08: Seatbelt worn detected at frame 45
+2024-05-01 22:53:08: Seatbelt worn detected at frame 45
+2024-05-01 22:53:09: Seatbelt not worn at frame 45
+2024-05-01 22:53:09: Seatbelt worn detected at frame 45
+2024-05-01 22:53:09: Seatbelt worn detected at frame 46
+2024-05-01 22:53:09: Seatbelt worn detected at frame 46
+2024-05-01 22:53:09: Seatbelt not worn at frame 46
+2024-05-01 22:53:09: Seatbelt worn detected at frame 46
+2024-05-01 22:53:09: Seatbelt worn detected at frame 47
+2024-05-01 22:53:09: Seatbelt worn detected at frame 47
+2024-05-01 22:53:09: Seatbelt not worn at frame 47
+2024-05-01 22:53:10: Seatbelt worn detected at frame 47
+2024-05-01 22:53:10: Seatbelt worn detected at frame 48
+2024-05-01 22:53:10: Seatbelt worn detected at frame 48
+2024-05-01 22:53:10: Seatbelt not worn at frame 48
+2024-05-01 22:53:10: Seatbelt worn detected at frame 48
+2024-05-01 22:53:10: Seatbelt worn detected at frame 49
+2024-05-01 22:53:10: Seatbelt worn detected at frame 49
+2024-05-01 22:53:10: Seatbelt not worn at frame 49
+2024-05-01 22:53:11: Seatbelt worn detected at frame 49
+2024-05-01 22:53:11: Seatbelt worn detected at frame 50
+2024-05-01 22:53:11: Seatbelt worn detected at frame 50
+2024-05-01 22:53:11: Seatbelt not worn at frame 50
+2024-05-01 22:53:11: Seatbelt worn detected at frame 50
+2024-05-01 22:53:11: Seatbelt worn detected at frame 51
+2024-05-01 22:53:11: Seatbelt worn detected at frame 51
+2024-05-01 22:53:11: Seatbelt not worn at frame 51
+2024-05-01 22:53:12: Seatbelt worn detected at frame 51
+2024-05-01 22:53:12: Seatbelt worn detected at frame 52
+2024-05-01 22:53:12: Seatbelt not worn at frame 52
+2024-05-01 22:53:12: Seatbelt worn detected at frame 52
+2024-05-01 22:53:12: Seatbelt worn detected at frame 52
+2024-05-01 22:53:12: Seatbelt worn detected at frame 53
+2024-05-01 22:53:12: Seatbelt not worn at frame 53
+2024-05-01 22:53:12: Seatbelt worn detected at frame 53
+2024-05-01 22:53:13: Seatbelt worn detected at frame 53
+2024-05-01 22:53:13: Seatbelt worn detected at frame 54
+2024-05-01 22:53:13: Seatbelt not worn at frame 54
+2024-05-01 22:53:13: Seatbelt worn detected at frame 54
+2024-05-01 22:53:13: Seatbelt worn detected at frame 54
+2024-05-01 22:53:13: Seatbelt worn detected at frame 55
+2024-05-01 22:53:13: Seatbelt not worn at frame 55
+2024-05-01 22:53:13: Seatbelt worn detected at frame 55
+2024-05-01 22:53:14: Seatbelt worn detected at frame 56
+2024-05-01 22:53:14: Seatbelt not worn at frame 56
+2024-05-01 22:53:14: Seatbelt worn detected at frame 56
+2024-05-01 22:53:14: Seatbelt worn detected at frame 57
+2024-05-01 22:53:14: Seatbelt worn detected at frame 57
+2024-05-01 22:53:14: Seatbelt not worn at frame 57
+2024-05-01 22:53:15: Seatbelt worn detected at frame 58
+2024-05-01 22:53:15: Seatbelt worn detected at frame 58
+2024-05-01 22:53:15: Seatbelt not worn at frame 58
+2024-05-01 22:53:15: Seatbelt worn detected at frame 58
+2024-05-01 22:53:15: Seatbelt worn detected at frame 59
+2024-05-01 22:53:15: Seatbelt worn detected at frame 59
+2024-05-01 22:53:15: Seatbelt not worn at frame 59
+2024-05-01 22:53:15: Seatbelt worn detected at frame 59
+2024-05-01 22:53:16: Seatbelt worn detected at frame 60
+2024-05-01 22:53:16: Seatbelt worn detected at frame 60
+2024-05-01 22:53:16: Seatbelt not worn at frame 60
+2024-05-01 22:53:16: Seatbelt worn detected at frame 60
+2024-05-01 22:53:16: Seatbelt worn detected at frame 61
+2024-05-01 22:53:16: Seatbelt not worn at frame 61
+2024-05-01 22:53:16: Seatbelt worn detected at frame 61
+2024-05-01 22:53:16: Seatbelt worn detected at frame 61
+2024-05-01 22:53:16: Seatbelt worn detected at frame 61
+2024-05-01 22:53:17: Seatbelt worn detected at frame 62
+2024-05-01 22:53:17: Seatbelt worn detected at frame 62
+2024-05-01 22:53:17: Seatbelt not worn at frame 62
+2024-05-01 22:53:17: Seatbelt worn detected at frame 62
+2024-05-01 22:53:17: Seatbelt worn detected at frame 62
+2024-05-01 22:53:17: Seatbelt worn detected at frame 63
+2024-05-01 22:53:17: Seatbelt worn detected at frame 63
+2024-05-01 22:53:17: Seatbelt not worn at frame 63
+2024-05-01 22:53:17: Seatbelt worn detected at frame 63
+2024-05-01 22:53:17: Seatbelt worn detected at frame 63
+2024-05-01 22:53:18: Seatbelt worn detected at frame 64
+2024-05-01 22:53:18: Seatbelt worn detected at frame 64
+2024-05-01 22:53:18: Seatbelt not worn at frame 64
+2024-05-01 22:53:18: Seatbelt worn detected at frame 64
+2024-05-01 22:53:18: Seatbelt worn detected at frame 65
+2024-05-01 22:53:18: Seatbelt worn detected at frame 65
+2024-05-01 22:53:18: Seatbelt not worn at frame 65
+2024-05-01 22:53:18: Seatbelt worn detected at frame 65
+2024-05-01 22:53:19: Seatbelt worn detected at frame 66
+2024-05-01 22:53:19: Seatbelt not worn at frame 66
+2024-05-01 22:53:19: Seatbelt worn detected at frame 66
+2024-05-01 22:53:19: Seatbelt worn detected at frame 66
+2024-05-01 22:53:19: Seatbelt worn detected at frame 67
+2024-05-01 22:53:19: Seatbelt not worn at frame 67
+2024-05-01 22:53:19: Seatbelt worn detected at frame 67
+2024-05-01 22:53:19: Seatbelt not worn at frame 67
+2024-05-01 22:53:20: Seatbelt worn detected at frame 68
+2024-05-01 22:53:20: Seatbelt worn detected at frame 68
+2024-05-01 22:53:20: Seatbelt not worn at frame 68
+2024-05-01 22:53:20: Seatbelt worn detected at frame 68
+2024-05-01 22:53:20: Seatbelt worn detected at frame 69
+2024-05-01 22:53:20: Seatbelt worn detected at frame 69
+2024-05-01 22:53:20: Seatbelt not worn at frame 69
+2024-05-01 22:53:20: Seatbelt worn detected at frame 69
+2024-05-01 22:53:21: Seatbelt worn detected at frame 70
+2024-05-01 22:53:21: Seatbelt worn detected at frame 70
+2024-05-01 22:53:21: Seatbelt not worn at frame 70
+2024-05-01 22:53:21: Seatbelt worn detected at frame 70
+2024-05-01 22:53:21: Seatbelt worn detected at frame 71
+2024-05-01 22:53:21: Seatbelt worn detected at frame 71
+2024-05-01 22:53:21: Seatbelt not worn at frame 71
+2024-05-01 22:53:21: Seatbelt not worn at frame 71
+2024-05-01 22:53:22: Seatbelt worn detected at frame 72
+2024-05-01 22:53:22: Seatbelt worn detected at frame 72
+2024-05-01 22:53:22: Seatbelt not worn at frame 72
+2024-05-01 22:53:22: Seatbelt not worn at frame 72
+2024-05-01 22:53:22: Seatbelt worn detected at frame 73
+2024-05-01 22:53:22: Seatbelt not worn at frame 73
+2024-05-01 22:53:22: Seatbelt worn detected at frame 73
+2024-05-01 22:53:22: Seatbelt not worn at frame 73
+2024-05-01 22:53:23: Seatbelt worn detected at frame 74
+2024-05-01 22:53:23: Seatbelt not worn at frame 74
+2024-05-01 22:53:23: Seatbelt worn detected at frame 74
+2024-05-01 22:53:23: Seatbelt worn detected at frame 75
+2024-05-01 22:53:23: Seatbelt not worn at frame 75
+2024-05-01 22:53:23: Seatbelt worn detected at frame 75
+2024-05-01 22:53:24: Seatbelt worn detected at frame 76
+2024-05-01 22:53:24: Seatbelt not worn at frame 76
+2024-05-01 22:53:24: Seatbelt worn detected at frame 76
+2024-05-01 22:53:24: Seatbelt worn detected at frame 77
+2024-05-01 22:53:24: Seatbelt not worn at frame 77
+2024-05-01 22:53:24: Seatbelt worn detected at frame 77
+2024-05-01 22:53:25: Seatbelt worn detected at frame 78
+2024-05-01 22:53:25: Seatbelt not worn at frame 78
+2024-05-01 22:53:25: Seatbelt worn detected at frame 78
+2024-05-01 22:53:25: Seatbelt worn detected at frame 79
+2024-05-01 22:53:25: Seatbelt not worn at frame 79
+2024-05-01 22:53:25: Seatbelt worn detected at frame 79
+2024-05-01 22:53:25: Seatbelt worn detected at frame 80
+2024-05-01 22:53:26: Seatbelt not worn at frame 80
+2024-05-01 22:53:26: Seatbelt worn detected at frame 80
+2024-05-01 22:53:26: Seatbelt worn detected at frame 81
+2024-05-01 22:53:26: Seatbelt not worn at frame 81
+2024-05-01 22:53:26: Seatbelt worn detected at frame 81
+2024-05-01 22:53:26: Seatbelt worn detected at frame 82
+2024-05-01 22:53:26: Seatbelt not worn at frame 82
+2024-05-01 22:53:26: Seatbelt worn detected at frame 82
+2024-05-01 22:53:27: Seatbelt worn detected at frame 83
+2024-05-01 22:53:27: Seatbelt not worn at frame 83
+2024-05-01 22:53:27: Seatbelt worn detected at frame 83
+2024-05-01 22:53:27: Seatbelt worn detected at frame 84
+2024-05-01 22:53:27: Seatbelt not worn at frame 84
+2024-05-01 22:53:27: Seatbelt worn detected at frame 84
+2024-05-01 22:53:28: Seatbelt worn detected at frame 85
+2024-05-01 22:53:28: Seatbelt not worn at frame 85
+2024-05-01 22:53:28: Seatbelt worn detected at frame 85
+2024-05-01 22:53:28: Seatbelt worn detected at frame 86
+2024-05-01 22:53:28: Seatbelt not worn at frame 86
+2024-05-01 22:53:28: Seatbelt worn detected at frame 86
+2024-05-01 22:53:29: Seatbelt worn detected at frame 87
+2024-05-01 22:53:29: Seatbelt not worn at frame 87
+2024-05-01 22:53:29: Seatbelt worn detected at frame 87
+2024-05-01 22:53:29: Seatbelt worn detected at frame 87
+2024-05-01 22:53:29: Seatbelt worn detected at frame 88
+2024-05-01 22:53:29: Seatbelt not worn at frame 88
+2024-05-01 22:53:29: Seatbelt worn detected at frame 88
+2024-05-01 22:53:29: Seatbelt not worn at frame 88
+2024-05-01 22:53:30: Seatbelt worn detected at frame 89
+2024-05-01 22:53:30: Seatbelt not worn at frame 89
+2024-05-01 22:53:30: Seatbelt worn detected at frame 89
+2024-05-01 22:53:30: Seatbelt worn detected at frame 89
+2024-05-01 22:53:30: Seatbelt worn detected at frame 90
+2024-05-01 22:53:30: Seatbelt not worn at frame 90
+2024-05-01 22:53:30: Seatbelt worn detected at frame 90
+2024-05-01 22:53:30: Seatbelt worn detected at frame 90
+2024-05-01 22:53:31: Seatbelt worn detected at frame 91
+2024-05-01 22:53:31: Seatbelt not worn at frame 91
+2024-05-01 22:53:31: Seatbelt worn detected at frame 91
+2024-05-01 22:53:31: Seatbelt not worn at frame 91
