@@ -626,3 +626,51 @@
 2024-05-01 23:23:25: Seatbelt worn detected at frame 129
 2024-05-01 23:23:25: Seatbelt worn detected at frame 129
 2024-05-01 23:23:26: Seatbelt worn detected at frame 129
+2024-05-01 23:23:27: Drowsiness detected at frame 129
+2024-05-01 23:23:27: Seatbelt worn detected at frame 130
+2024-05-01 23:23:27: Seatbelt worn detected at frame 130
+2024-05-01 23:23:27: Seatbelt worn detected at frame 130
+2024-05-01 23:23:28: Drowsiness detected at frame 130
+2024-05-01 23:23:29: Seatbelt worn detected at frame 131
+2024-05-01 23:23:29: Seatbelt worn detected at frame 131
+2024-05-01 23:23:31: Seatbelt worn detected at frame 132
+2024-05-01 23:23:31: Seatbelt worn detected at frame 132
+2024-05-01 23:23:31: Seatbelt worn detected at frame 132
+2024-05-01 23:23:32: Seatbelt worn detected at frame 133
+2024-05-01 23:23:32: Seatbelt worn detected at frame 133
+2024-05-01 23:23:32: Seatbelt worn detected at frame 133
+2024-05-01 23:23:33: Seatbelt worn detected at frame 133
+2024-05-01 23:23:33: Drowsiness detected at frame 133
+2024-05-01 23:23:34: Seatbelt worn detected at frame 134
+2024-05-01 23:23:34: Seatbelt worn detected at frame 134
+2024-05-01 23:23:34: Seatbelt worn detected at frame 134
+2024-05-01 23:23:35: Drowsiness detected at frame 134
+2024-05-01 23:23:35: Seatbelt worn detected at frame 135
+2024-05-01 23:23:36: Seatbelt worn detected at frame 135
+2024-05-01 23:23:36: Seatbelt worn detected at frame 135
+2024-05-01 23:23:37: Drowsiness detected at frame 135
+2024-05-01 23:23:37: Seatbelt worn detected at frame 136
+2024-05-01 23:23:37: Seatbelt worn detected at frame 136
+2024-05-01 23:23:38: Seatbelt worn detected at frame 136
+2024-05-01 23:23:39: Drowsiness detected at frame 136
+2024-05-01 23:23:39: Seatbelt worn detected at frame 137
+2024-05-01 23:23:39: Seatbelt worn detected at frame 137
+2024-05-01 23:23:39: Seatbelt worn detected at frame 137
+2024-05-01 23:23:40: Seatbelt worn detected at frame 138
+2024-05-01 23:23:40: Seatbelt worn detected at frame 138
+2024-05-01 23:23:41: Seatbelt worn detected at frame 138
+2024-05-01 23:23:42: Seatbelt worn detected at frame 139
+2024-05-01 23:23:42: Seatbelt worn detected at frame 139
+2024-05-01 23:23:42: Seatbelt worn detected at frame 139
+2024-05-01 23:23:42: Smoking detected at frame 139 with confidence 53%
+2024-05-01 23:23:43: Drowsiness detected at frame 139
+2024-05-01 23:23:43: Seatbelt worn detected at frame 140
+2024-05-01 23:23:43: Seatbelt worn detected at frame 140
+2024-05-01 23:23:43: Seatbelt worn detected at frame 140
+2024-05-01 23:23:45: Seatbelt worn detected at frame 141
+2024-05-01 23:23:45: Seatbelt worn detected at frame 141
+2024-05-01 23:23:45: Seatbelt worn detected at frame 141
+2024-05-01 23:23:46: Drowsiness detected at frame 141
+2024-05-01 23:23:46: Seatbelt worn detected at frame 142
+2024-05-01 23:23:46: Seatbelt worn detected at frame 142
+2024-05-01 23:23:46: Seatbelt worn detected at frame 142
