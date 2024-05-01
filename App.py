@@ -24,7 +24,11 @@ SEATBELT_THRESHOLD_SCORE = 0.99
 SMOKING_DRINKING_THRESHOLD_SCORE = 0.8
 SKIP_FRAMES = 1
 MAX_FRAME_RECORD = 500
-INPUT_VIDEO = "./drinking.mp4"
+INPUT_VIDEO = "./drowsiness.mp4"
+# INPUT_VIDEO = "./smoking.mp4"
+# INPUT_VIDEO = "./drinking.mp4"
+# INPUT_VIDEO = "./drowsiness.mp4"
+# INPUT_VIDEO = "./full_video.mp4"
 COLOR_GREEN = (0, 255, 0)
 COLOR_RED = (255, 0, 0)
 output_width = 1000
@@ -244,7 +248,7 @@ try:
                             x1,y1,x2,y2 = box.xyxy[0]
                             x1, y1, x2, y2 = int(x1),int(y1),int(x2),int(y2)
                             cv2.rectangle(img,(x1,y1),(x2,y2),(0,0,255),5)
-                            cvzone.putTextRect(img, f'{classnames_drink[Class]} {connfidence}%', [x1+8, y1+100], scale=1.5, thickness=2)
+                            cvzone.putTextRect(img, f'{classnames_drink[Class]} {connfidence}%', [x1+8, y1+100], scale=1, thickness=1)
                             log_activity(f"Drinking detected at frame {frame_count} with confidence {connfidence}%")
 
 
