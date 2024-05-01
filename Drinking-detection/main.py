@@ -5,10 +5,10 @@ import math
 
 # Running real time from webcam
 cap = cv2.VideoCapture('../mohibtemp.mp4')
-model = YOLO('./best.pt')
+model = YOLO('./general.pt')
 
 # Reading the classes
-classnames=['Drinking']
+classnames=['cell phone', 'drinking', 'eyeglass', 'hands off', 'hands on', 'mask', 'seatbelt', 'smoking']
 
 while True:
     ret, frame = cap.read()
@@ -21,7 +21,7 @@ while True:
             connfidence = box.conf[0]
             connfidence = math.ceil(connfidence * 100)
             Class = int(box.cls[0])
-            if connfidence > 50:
+            if connfidence > 50 and classnames[Class] == 'drinking':
                 x1,y1,x2,y2 = box.xyxy[0]
                 x1, y1, x2, y2 = int(x1),int(y1),int(x2),int(y2)
                 cv2.rectangle(frame,(x1,y1),(x2,y2),(0,0,255),5)

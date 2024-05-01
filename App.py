@@ -84,9 +84,9 @@ model = torch.hub.load(
     "ultralytics/yolov5", "custom", path=OBJECT_DETECTION_MODEL_PATH, force_reload=False
 )
 smoking_model = YOLO("./Smoking-detection/cigar.pt")
-drinking_model = YOLO("./Smoking-detection/best.pt")
+drinking_model = YOLO("./Drinking-detection/general.pt")
 classnames_cigar = ['cigarette']
-classnames_drink = ['drinking', 'smoking']
+classnames_drink = ['cell phone', 'drinking', 'eyeglass', 'hands off', 'hands on', 'mask', 'seatbelt', 'smoking']
 cap = cv2.VideoCapture(INPUT_VIDEO)
 frame_width = int(cap.get(3))
 frame_height = int(cap.get(4))
@@ -237,16 +237,15 @@ try:
                 for info in result_drink:
                     boxes = info.boxes
                     for box in boxes:
-                        confidence = box.conf[0]
-                        confidence = math.ceil(confidence * 100)
+                        connfidence = box.conf[0]
+                        connfidence = math.ceil(connfidence * 100)
                         Class = int(box.cls[0])
-                        if confidence > 50:
-                            drinking_detected = True
-                            x1, y1, x2, y2 = box.xyxy[0]
-                            x1, y1, x2, y2 = int(x1), int(y1), int(x2), int(y2)
-                            cv2.rectangle(img, (x1, y1), (x2, y2), (0, 255, 0), 2)
-                            cvzone.putTextRect(img, f'{classnames_drink[Class]} {confidence}%', [x1 + 8, y1 + 100], scale=1, thickness=1)
-                            log_activity(f"Drinking detected at frame {frame_count} with confidence {confidence}%")
+                        if connfidence > 50 and classnames_drink[Class] == 'drinking':
+                            x1,y1,x2,y2 = box.xyxy[0]
+                            x1, y1, x2, y2 = int(x1),int(y1),int(x2),int(y2)
+                            cv2.rectangle(img,(x1,y1),(x2,y2),(0,0,255),5)
+                            cvzone.putTextRect(img, f'{classnames_drink[Class]} {connfidence}%', [x1+8, y1+100], scale=1.5, thickness=2)
+                            log_activity(f"Drinking detected at frame {frame_count} with confidence {connfidence}%")
 
 
 
