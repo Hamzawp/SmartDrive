@@ -92,79 +92,94 @@ frame_width = int(cap.get(3))
 frame_height = int(cap.get(4))
 
 
-# def draw_dashboard(img, smoking_detected, drinking_detected, seatbelt_detected, drowsy):
-#     dashboard_color = (0, 0, 0)
-#     dashboard_height = 100
-#     cv2.rectangle(img, (0, 0), (output_width, dashboard_height), dashboard_color, -1)
-#     cv2.putText(
-#         img, "Dashboard", (10, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2
-#     )
-#     indicator_size = 20
-#     indicator_start_x = 150
-#     cv2.putText(
-#         img,
-#         "Smoking:",
-#         (indicator_start_x, 50),
-#         cv2.FONT_HERSHEY_SIMPLEX,
-#         0.5,
-#         (255, 255, 255),
-#         2,
-#     )
-#     cv2.putText(
-#         img,
-#         "Drinking:",
-#         (indicator_start_x, 75),
-#         cv2.FONT_HERSHEY_SIMPLEX,
-#         0.5,
-#         (255, 255, 255),
-#         2,
-#     )
-#     cv2.putText(
-#         img,
-#         "Seatbelt:",
-#         (indicator_start_x, 100),
-#         cv2.FONT_HERSHEY_SIMPLEX,
-#         0.5,
-#         (255, 255, 255),
-#         2,
-#     )
-#     cv2.putText(
-#         img,
-#         "Drowsy:",
-#         (indicator_start_x + 270, 75),
-#         cv2.FONT_HERSHEY_SIMPLEX,
-#         0.5,
-#         (255, 255, 255),
-#         2,
-#     )
-#     cv2.rectangle(
-#         img,
-#         (indicator_start_x + 70, 35),
-#         (indicator_start_x + 70 + indicator_size, 35 + indicator_size),
-#         (0, 255, 0) if smoking_detected else (0, 0, 255),
-#         -1,
-#     )
-#     cv2.rectangle(
-#         img,
-#         (indicator_start_x + 70, 60),
-#         (indicator_start_x + 70 + indicator_size, 60 + indicator_size),
-#         (0, 255, 0) if drinking_detected else (0, 0, 255),
-#         -1,
-#     )
-#     cv2.rectangle(
-#         img,
-#         (indicator_start_x + 70, 85),
-#         (indicator_start_x + 70 + indicator_size, 85 + indicator_size),
-#         (0, 255, 0) if seatbelt_detected else (0, 0, 255),
-#         -1,
-#     )
-#     cv2.rectangle(
-#         img,
-#         (indicator_start_x + 340, 60),
-#         (indicator_start_x + 340 + indicator_size, 60 + indicator_size),
-#         (0, 255, 0) if not drowsy else (0, 0, 255),
-#         -1,
-#     )
+def draw_dashboard(img, smoking_detected, drinking_detected, seatbelt_detected, drowsy):
+    overlay = img.copy()
+    alpha = 0.5  # Transparency factor
+    dashboard_color = (0, 0, 0)  # Black background
+    cv2.rectangle(overlay, (0, 0), (output_width, 100), dashboard_color, -1)
+    cv2.addWeighted(overlay, alpha, img, 1 - alpha, 0, img)
+    indicator_size = 20
+    indicator_start_x = 150
+    cv2.putText(
+        img,
+        "Smoking:",
+        (indicator_start_x + 350, 15),
+        cv2.FONT_HERSHEY_SIMPLEX,
+        0.5,
+        (255, 255, 255),
+        1,
+    )
+    cv2.putText(
+        img,
+        "Drinking:",
+        (indicator_start_x + 350, 40),
+        cv2.FONT_HERSHEY_SIMPLEX,
+        0.5,
+        (255, 255, 255),
+        1,
+    )
+    cv2.putText(
+        img,
+        "Seatbelt:",
+        (indicator_start_x + 350, 65),
+        cv2.FONT_HERSHEY_SIMPLEX,
+        0.5,
+        (255, 255, 255),
+        1,
+    )
+    cv2.putText(
+        img,
+        "Drowsy:",
+        (indicator_start_x + 350, 90),
+        cv2.FONT_HERSHEY_SIMPLEX,
+        0.5,
+        (255, 255, 255),
+        1,
+    )
+    cv2.putText(
+        img,
+        "Occupancy: 3",
+        (indicator_start_x + 350, 115),
+        cv2.FONT_HERSHEY_SIMPLEX,
+        0.5,
+        (255, 255, 255),
+        1,
+    )
+    cv2.rectangle(
+        img,
+        (indicator_start_x + 450, 2),
+        (indicator_start_x + 450 + indicator_size, 2 + indicator_size),
+        (0, 255, 0) if smoking_detected else (0, 0, 255),
+        -1,
+    )
+    cv2.rectangle(
+        img,
+        (indicator_start_x + 450, 30),
+        (indicator_start_x + 450 + indicator_size, 30 + indicator_size),
+        (0, 255, 0) if drinking_detected else (0, 0, 255),
+        -1,
+    )
+    cv2.rectangle(
+        img,
+        (indicator_start_x + 450, 52),
+        (indicator_start_x + 450 + indicator_size, 52 + indicator_size),
+        (0, 255, 0) if seatbelt_detected else (0, 0, 255),
+        -1,
+    )
+    cv2.rectangle(
+        img,
+        (indicator_start_x + 450, 80),
+        (indicator_start_x + 450 + indicator_size, 80 + indicator_size),
+        (0, 255, 0) if not drowsy else (0, 0, 255),
+        -1,
+    )
+    cv2.rectangle(
+        img,
+        (indicator_start_x + 450, 100),
+        (indicator_start_x + 450 + indicator_size, 80 + indicator_size),
+        (0, 255, 0) if not drowsy else (0, 0, 255),
+        -1,
+    )
 
 frame_rate = cap.get(cv2.CAP_PROP_FPS)
 seconds_between_frames = 1 / frame_rate
@@ -283,9 +298,9 @@ try:
                             1,
                         )
 
-                # draw_dashboard(
-                #     img, smoking_detected, drinking_detected, seatbelt_detected, drowsy
-                # )
+                draw_dashboard(
+                    img, smoking_detected, drinking_detected, seatbelt_detected, drowsy
+                )
 
                 img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
                 cv2.namedWindow("Video feed", cv2.WINDOW_NORMAL)
