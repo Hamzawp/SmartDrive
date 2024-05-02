@@ -24,7 +24,7 @@ SEATBELT_THRESHOLD_SCORE = 0.99
 SMOKING_DRINKING_THRESHOLD_SCORE = 0.8
 SKIP_FRAMES = 1
 MAX_FRAME_RECORD = 500
-INPUT_VIDEO = "./drinking.mp4"
+INPUT_VIDEO = "./smoking.mp4"
 COLOR_GREEN = (0, 255, 0)
 COLOR_RED = (255, 0, 0)
 output_width = 1000
@@ -171,105 +171,12 @@ model = torch.hub.load(
     "ultralytics/yolov5", "custom", path=OBJECT_DETECTION_MODEL_PATH, force_reload=False
 )
 smoking_model = YOLO("./Smoking-detection/cigar.pt")
-drinking_model = YOLO("./Drinking-detection/general.pt")
-classnames_cigar = ['cigarette']
-classnames_drink = ['cell phone', 'drinking', 'eyeglass', 'hands off', 'hands on', 'mask', 'seatbelt', 'smoking']
 drinking_model = YOLO("./Smoking-detection/best.pt")
 classnames_cigar = ["cigarette"]
 classnames_drink = ["drinking", "smoking"]
 cap = cv2.VideoCapture(INPUT_VIDEO)
 frame_width = int(cap.get(3))
 frame_height = int(cap.get(4))
-
-
-def draw_dashboard(img, smoking_detected, drinking_detected, seatbelt_detected, drowsy):
-    overlay = img.copy()
-    alpha = 0.5  # Transparency factor
-    dashboard_color = (0, 0, 0)  # Black background
-    cv2.rectangle(overlay, (0, 0), (output_width, 100), dashboard_color, -1)
-    cv2.addWeighted(overlay, alpha, img, 1 - alpha, 0, img)
-    indicator_size = 20
-    indicator_start_x = 150
-    cv2.putText(
-        img,
-        "Smoking:",
-        (indicator_start_x + 350, 15),
-        cv2.FONT_HERSHEY_SIMPLEX,
-        0.5,
-        (255, 255, 255),
-        1,
-    )
-    cv2.putText(
-        img,
-        "Drinking:",
-        (indicator_start_x + 350, 40),
-        cv2.FONT_HERSHEY_SIMPLEX,
-        0.5,
-        (255, 255, 255),
-        1,
-    )
-    cv2.putText(
-        img,
-        "Seatbelt:",
-        (indicator_start_x + 350, 65),
-        cv2.FONT_HERSHEY_SIMPLEX,
-        0.5,
-        (255, 255, 255),
-        1,
-    )
-    cv2.putText(
-        img,
-        "Drowsy:",
-        (indicator_start_x + 350, 90),
-        cv2.FONT_HERSHEY_SIMPLEX,
-        0.5,
-        (255, 255, 255),
-        1,
-    )
-    cv2.putText(
-        img,
-        "Occupancy: 3",
-        (indicator_start_x + 350, 115),
-        cv2.FONT_HERSHEY_SIMPLEX,
-        0.5,
-        (255, 255, 255),
-        1,
-    )
-    cv2.rectangle(
-        img,
-        (indicator_start_x + 450, 2),
-        (indicator_start_x + 450 + indicator_size, 2 + indicator_size),
-        (0, 255, 0) if smoking_detected else (0, 0, 255),
-        -1,
-    )
-    cv2.rectangle(
-        img,
-        (indicator_start_x + 450, 30),
-        (indicator_start_x + 450 + indicator_size, 30 + indicator_size),
-        (0, 255, 0) if drinking_detected else (0, 0, 255),
-        -1,
-    )
-    cv2.rectangle(
-        img,
-        (indicator_start_x + 450, 52),
-        (indicator_start_x + 450 + indicator_size, 52 + indicator_size),
-        (0, 255, 0) if seatbelt_detected else (0, 0, 255),
-        -1,
-    )
-    cv2.rectangle(
-        img,
-        (indicator_start_x + 450, 80),
-        (indicator_start_x + 450 + indicator_size, 80 + indicator_size),
-        (0, 255, 0) if not drowsy else (0, 0, 255),
-        -1,
-    )
-    cv2.rectangle(
-        img,
-        (indicator_start_x + 450, 100),
-        (indicator_start_x + 450 + indicator_size, 80 + indicator_size),
-        (0, 255, 0) if not drowsy else (0, 0, 255),
-        -1,
-    )
 
 frame_rate = cap.get(cv2.CAP_PROP_FPS)
 seconds_between_frames = 1 / frame_rate
@@ -426,10 +333,6 @@ try:
                             (0, 255, 0),
                             1,
                         )
-
-                draw_dashboard(
-                    img, smoking_detected, drinking_detected, seatbelt_detected, drowsy
-                )
                 # Call the draw_dashboard function with dynamic occupancy
                 draw_dashboard(
                     img,
