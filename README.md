@@ -104,43 +104,44 @@ The architecture:
 
 ## Algorithm
 
-- Initialize and Load Models:
+1. Initialize and Load Models:
 
-Import required libraries and load pre-trained models for object detection, smoking, and drinking detection.
-Load face and eye cascades for drowsiness detection.
+- Import required libraries and load pre-trained models for object detection, smoking, and drinking detection.
+- Load face and eye cascades for drowsiness detection.
 
-- Video Capture and Frame Processing:
-Capture video frames from the input video.
-Resize frames and limit the region of interest.
+2. Video Capture and Frame Processing:
 
-- Face and Seatbelt Detection:
+- Capture video frames from the input video.
+- Resize frames and limit the region of interest.
 
-Detect faces and draw rectangles around them.
-Use a pre-trained model to detect seatbelt usage and log the results.
+3. Face and Seatbelt Detection:
 
-- Smoking and Drinking Detection:
+- Detect faces and draw rectangles around them.
+- Use a pre-trained model to detect seatbelt usage and log the results.
 
-Apply smoking and drinking detection models on the frames.
-Draw bounding boxes and labels for detected objects.
+4. Smoking and Drinking Detection:
 
-- Drowsiness Detection:
+- Apply smoking and drinking detection models on the frames.
+- Draw bounding boxes and labels for detected objects.
 
-Detect eyes within the face regions.
-Log and label the frames if no eyes are detected (indicating drowsiness).
+5. Drowsiness Detection:
 
-- Display Results:
+- Detect eyes within the face regions.
+- Log and label the frames if no eyes are detected (indicating drowsiness).
 
-Draw a dashboard on the frames to display the status of smoking, drinking, seatbelt usage, drowsiness, and face count.
-Show the video feed with the drawn information.
+6. Display Results:
 
-- Log and Post-Processing:
+- Draw a dashboard on the frames to display the status of smoking, drinking, seatbelt usage, drowsiness, and face count.
+- Show the video feed with the drawn information.
 
-Log activities such as face count, smoking, drinking, seatbelt usage, and drowsiness.
-Read the log file and generate a report summarizing the detections and their counts.
+6. Log and Post-Processing:
 
-- Clean Up:
+- Log activities such as face count, smoking, drinking, seatbelt usage, and drowsiness.
+- Read the log file and generate a report summarizing the detections and their counts.
 
-Release video capture and close all OpenCV windows after processing.
+7. Clean Up:
+
+- Release video capture and close all OpenCV windows after processing.
 
 <br />
 <br />
