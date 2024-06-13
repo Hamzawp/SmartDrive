@@ -119,19 +119,28 @@ To set up the project locally, follow these steps:
    ```
 
 2. **Install the required packages**
-   pip install -r requirements.txt
+
+```sh
+ pip install -r requirements.txt
+```
 
 3. **Install specific versions of the required libraries**
-   pip install cv2==4.8.0
-   pip install numpy
-   pip install torch
-   pip install opencv-python
-   pip install opencv-contrib-python
-   pip install ultralytics
-   pip install cvzone
+
+```sh
+ pip install cv2==4.8.0
+ pip install numpy
+ pip install torch
+ pip install opencv-python
+ pip install opencv-contrib-python
+ pip install ultralytics
+ pip install cvzone
+```
 
 4. **Run the application**
-   python App.py
+
+```sh
+ python App.py
+```
 
 ## Authors
 
