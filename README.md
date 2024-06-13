@@ -1,9 +1,7 @@
 # SmartDrive
 
 <br/>
-<p align="center">
-  <img width="200" src="./assets/logo.png" alt="architecture">
-</p>
+
 <p align="center">
   <a href="#table-of-contents"><b>Explore the docs »</b></a>
   <br />
@@ -48,6 +46,16 @@ Through these initiatives, we aim to substantially reduce road accidents and enh
 3. The algorithmic solutions for this project are specifically tailored to address safe area calculation, lane detection, and driver behavior monitoring. Safe area calculation algorithms are designed to identify and analyze potential hazards within the driving environment.
 4. Aiming to promote responsible habits without involving hardware components in all vehicle types.
 
+## Requirements
+
+- cv2==4.8.0
+- numpy
+- torch
+- opencv-python
+- opencv-contrib-python
+- ultralytics
+- cvzone
+
 ## Architecture
 
 The architecture:
@@ -77,7 +85,6 @@ The architecture:
 
 NOTE: Individual instructions can be found in respective directories.
 
-
 ```
 *
 ├───Module 1 - BackCam
@@ -99,6 +106,32 @@ NOTE: Individual instructions can be found in respective directories.
 
 <br />
 <br />
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. **Clone the repository**
+
+   ```sh
+   git clone https://github.com/your_username/SmartDrive.git
+   cd SmartDrive
+   ```
+
+2. **Install the required packages**
+   pip install -r requirements.txt
+
+3. **Install specific versions of the required libraries**
+   pip install cv2==4.8.0
+   pip install numpy
+   pip install torch
+   pip install opencv-python
+   pip install opencv-contrib-python
+   pip install ultralytics
+   pip install cvzone
+
+4. **Run the application**
+   python App.py
 
 ## Authors
 
