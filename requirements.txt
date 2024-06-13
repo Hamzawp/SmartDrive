@@ -1,7 +1,6 @@
 cv2==4.8.0
 numpy
 torch
-
 opencv-python
 opencv-contrib-python
 ultralytics
