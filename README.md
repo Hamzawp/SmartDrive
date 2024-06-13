@@ -56,6 +56,41 @@ Through these initiatives, we aim to substantially reduce road accidents and enh
 - ultralytics
 - cvzone
 
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. **Clone the repository**
+
+```sh
+   git clone https://github.com/your_username/SmartDrive.git
+   cd SmartDrive
+```
+
+2. **Install the required packages**
+
+```sh
+ pip install -r requirements.txt
+```
+
+3. **Install specific versions of the required libraries**
+
+```sh
+ pip install cv2==4.8.0
+ pip install numpy
+ pip install torch
+ pip install opencv-python
+ pip install opencv-contrib-python
+ pip install ultralytics
+ pip install cvzone
+```
+
+4. **Run the application**
+
+```sh
+ python App.py
+```
+
 ## Architecture
 
 The architecture:
@@ -67,7 +102,45 @@ The architecture:
 <img src="./assets/block_diagram3.png" alt="architecture">
 <br />
 
-## Demonstration
+## Algorithm
+
+- Initialize and Load Models:
+
+Import required libraries and load pre-trained models for object detection, smoking, and drinking detection.
+Load face and eye cascades for drowsiness detection.
+
+- Video Capture and Frame Processing:
+Capture video frames from the input video.
+Resize frames and limit the region of interest.
+
+- Face and Seatbelt Detection:
+
+Detect faces and draw rectangles around them.
+Use a pre-trained model to detect seatbelt usage and log the results.
+
+- Smoking and Drinking Detection:
+
+Apply smoking and drinking detection models on the frames.
+Draw bounding boxes and labels for detected objects.
+
+- Drowsiness Detection:
+
+Detect eyes within the face regions.
+Log and label the frames if no eyes are detected (indicating drowsiness).
+
+- Display Results:
+
+Draw a dashboard on the frames to display the status of smoking, drinking, seatbelt usage, drowsiness, and face count.
+Show the video feed with the drawn information.
+
+- Log and Post-Processing:
+
+Log activities such as face count, smoking, drinking, seatbelt usage, and drowsiness.
+Read the log file and generate a report summarizing the detections and their counts.
+
+- Clean Up:
+
+Release video capture and close all OpenCV windows after processing.
 
 <br />
 <br />
@@ -107,40 +180,7 @@ NOTE: Individual instructions can be found in respective directories.
 <br />
 <br />
 
-## Installation
 
-To set up the project locally, follow these steps:
-
-1. **Clone the repository**
-
-   ```sh
-   git clone https://github.com/your_username/SmartDrive.git
-   cd SmartDrive
-   ```
-
-2. **Install the required packages**
-
-```sh
- pip install -r requirements.txt
-```
-
-3. **Install specific versions of the required libraries**
-
-```sh
- pip install cv2==4.8.0
- pip install numpy
- pip install torch
- pip install opencv-python
- pip install opencv-contrib-python
- pip install ultralytics
- pip install cvzone
-```
-
-4. **Run the application**
-
-```sh
- python App.py
-```
 
 ## Authors
 
