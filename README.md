@@ -46,16 +46,6 @@ Through these initiatives, we aim to substantially reduce road accidents and enh
 3. The algorithmic solutions for this project are specifically tailored to address safe area calculation, lane detection, and driver behavior monitoring. Safe area calculation algorithms are designed to identify and analyze potential hazards within the driving environment.
 4. Aiming to promote responsible habits without involving hardware components in all vehicle types.
 
-## Requirements
-
-- cv2==4.8.0
-- numpy
-- torch
-- opencv-python
-- opencv-contrib-python
-- ultralytics
-- cvzone
-
 ## Installation
 
 To set up the project locally, follow these steps:
